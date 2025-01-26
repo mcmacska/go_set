@@ -1,4 +1,4 @@
-package go_set
+package set
 
 type Set[T comparable] map[T]bool
 
